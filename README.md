@@ -6,21 +6,21 @@ This project demonstrates how to deploy a Node.js-based CRUD application integra
 
 MongoDB deployed with:
 
-Persistent Volume
+--> Persistent Volume
 
-Persistent Volume Claim
+--> Persistent Volume Claim
 
-Secret for credentials
+--> Secret for credentials
 
 Node.js CRUD application deployed from a Docker image
 
 Kubernetes resources:
 
-Deployments
+--> Deployments
 
-Services (NodePort)
+--> Services (NodePort)
 
-StorageClass
+--> StorageClass
 
 Verified with:
 
